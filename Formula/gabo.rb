@@ -1,8 +1,8 @@
 class Gabo < Formula
   desc "Easy access to gitattributes boilerplates"
   homepage "https://github.com/jarrodldavis/gabo"
-  url "https://github.com/jarrodldavis/gabo/archive/2.3.0.tar.gz"
-  sha256 "4162e5390778c2ade78a3bc4ed56f2c3574b77387c303d74a93881216c77bc85"
+  url "https://github.com/jarrodldavis/gabo/archive/2.3.1.tar.gz"
+  sha256 "992fa6721401cd56fabb4fe0b9a65587519848bede4b3aaaad1c8d4e9dca7ac3"
 
   bottle :unneeded
 
